@@ -12,4 +12,8 @@ The creation of native economic value by any participant; and
 The transfer of this native value to any participant.
 WIth Web3 a user can hold his state and transfer it: this can be seen as the main difference between Web2 and Web3.
 Web3 technology has been developed starting from blockchains (concepts explained later on in this document) that provide a way to hold state. The web3 stack currently looks like in the below figure. It is made up of modular components that allow state to be shared among all participants while preventing vendor lock-in to layers below. Because of this, if an application wants to change the state layer, it does not need to rewrite its entire stack (i.e. blockchain). This is effective because it fosters healthy competition and allows each layer to preserve the value it creates without having to worry about what will happen if the rules of the game change later on.
-![](/screenshot/first_transactin_output.png)
+
+![web3_stack](https://user-images.githubusercontent.com/110104014/192861441-5ed79837-0528-4da9-ba1f-929d05f2244e.png)
+
+
+
