@@ -42,7 +42,7 @@ The Algorand protocol enables the creation of on-chain assets that share the Alg
 Algorand Standard Assets can be used to represent stablecoins, loyalty points, system credits, and in-game points, to name a few. One can also represent single, unique assets such as a house deed, collectible items, unique parts of a supply chain, and so on. There is also the option to place transfer restrictions on an asset, which can help with securities, compliance, and certification use cases.
 
 ## Important references
-https://developer.algorand.org/docs/get-started/dapps/
-https://www.coinbase.com/blog/understanding-web-3-a-user-controlled-internet 
-http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html
+https://developer.algorand.org/docs/get-started/dapps/  
+https://www.coinbase.com/blog/understanding-web-3-a-user-controlled-internet  
+http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html  
 
