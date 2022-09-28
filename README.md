@@ -37,6 +37,8 @@ A blockchain is a shared database on a network of computers. Once a record has b
 ## Application in the current project
 This project will build a [decentralized application](https://developer.algorand.org/docs/get-started/dapps/) based on the technology described above. It will integrate the use of the wallet that will help to sign in a secure way a transaction. The certificates will be generated as assets. The assets will be non-fungible to make them unique: there will be NFTs. Let’s have a look at what an asset is in Algorand Blockchain.
 
+Take a look at the readme file in respectively frontend and backend folder for information about frontend and backend development.
+
 ### Account and Assets in Algorand Block
 The Algorand protocol enables the creation of on-chain assets that share the Algo's security, compatibility, speed, and ease of use. Algorand Standard Assets (ASA) is the official name for assets on Algorand.
 Algorand Standard Assets can be used to represent stablecoins, loyalty points, system credits, and in-game points, to name a few. One can also represent single, unique assets such as a house deed, collectible items, unique parts of a supply chain, and so on. There is also the option to place transfer restrictions on an asset, which can help with securities, compliance, and certification use cases.
