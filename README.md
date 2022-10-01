@@ -43,8 +43,17 @@ Look at the readme file in respectively frontend and backend folder for informat
 The Algorand protocol enables the creation of on-chain assets that share the Algo's security, compatibility, speed, and ease of use. Algorand Standard Assets (ASA) is the official name for assets on Algorand.
 Algorand Standard Assets can be used to represent stablecoins, loyalty points, system credits, and in-game points, to name a few. One can also represent single, unique assets such as a house deed, collectible items, unique parts of a supply chain, and so on. There is also the option to place transfer restrictions on an asset, which can help with securities, compliance, and certification use cases.
 
+## The dApp: final product
+The final application will have two components or interfaces. One used by the organization (10 Academy) ‘Admin’ and the other one available for the trainees. Once they complete the training, they will send a request for the certificate which will be approved on the admin page and sent to them as an asset. 
+Note: A good implementation of the dapp can be found via [this repository](https://github.com/jedisam/certificate-distribution-smart-contract).
+
+
 ## Important references
 https://developer.algorand.org/docs/get-started/dapps/  
 https://www.coinbase.com/blog/understanding-web-3-a-user-controlled-internet  
 http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html  
+
+## Github repo to the dapp
+https://github.com/jedisam/certificate-distribution-smart-contract 
+ 
 
