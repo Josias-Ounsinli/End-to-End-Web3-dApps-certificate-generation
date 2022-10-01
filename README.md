@@ -57,4 +57,4 @@ http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html
 ## Github repo to the dapp
 https://github.com/jedisam/certificate-distribution-smart-contract 
  
-
+Find the blog [here](https://medium.com/@josias.ouns.djossou/end-to-end-web3-dapps-certificate-generation-distribution-and-value-transfer-with-algorand-nfts-b46ebe1adb76).
